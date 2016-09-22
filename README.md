@@ -8,4 +8,4 @@ Available Channels :
 1) iPhone
 2) Android
 
-Supported form : Kony-6.5 and above versions
+Supported Versions : Kony-6.5 and above versions
